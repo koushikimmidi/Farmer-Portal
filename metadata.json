@@ -1,0 +1,8 @@
+{
+  "name": "Copy of KrishiUday - Smart Farming Advisory",
+  "description": "A data-driven, AI-powered agricultural advisory platform tailored for Indian farmers to enhance productivity and sustainability.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
